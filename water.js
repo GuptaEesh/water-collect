@@ -1,5 +1,5 @@
 const container = document.querySelector(".container2");
-let a = [0, 4, 0, 0, 0, 6, 0, 6, 4, 0, 0, 0, 2, 3, 1, 2, 0];
+let a = [0, 4, 0, 0, 0, 6, 0, 6, 4, 0];
 let N = a.length,
   maxLeft = -1;
 let prefix = [];
